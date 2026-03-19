@@ -1,0 +1,11 @@
+{
+  "name": "tz-skills",
+  "description": "Enterprise coding standards: skills, rules, and commands for Claude Code. Includes TDD enforcement, modular architecture, security, and language-specific best practices.",
+  "version": "1.0.0",
+  "author": {
+    "name": "arozz7",
+    "homepage": "https://github.com/arozz7/skills"
+  },
+  "repository": "https://github.com/arozz7/skills",
+  "license": "MIT"
+}

@@ -1,3 +1,13 @@
+# tz-skills Plugin
+
+This repo is a Claude Code plugin. Install with: `claude --plugin-dir ./`
+
+**Skills** (activated by context): `tdd-enforcer`, `workspace-janitor`, `architect-decision-engine`, `codebase-mapper`, `handover`, `security-auditor`, `visual-qa-check`
+
+**Commands** (slash commands): `/tz-skills:git-workflow`, `/tz-skills:security`, `/tz-skills:modular-architecture`, `/tz-skills:refactoring-protocol`, `/tz-skills:javascript`, `/tz-skills:python`, `/tz-skills:react`, `/tz-skills:stack-typescript`, `/tz-skills:electron`, `/tz-skills:testing-tdd`, `/tz-skills:testing-master`, `/tz-skills:testing-robustness`
+
+---
+
 # Global Standards
 
 ## Core Philosophy
