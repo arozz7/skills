@@ -25,7 +25,6 @@ Skills are activated automatically by Claude Code based on context. Invoke with 
 | `/tz-skills:codebase-mapper` | Map and document codebase structure |
 | `/tz-skills:handover` | Generate handover summaries for context transfer |
 | `/tz-skills:security-auditor` | Security audit against OWASP and best practices |
-| `/tz-skills:visual-qa-check` | Visual QA checks for UI components |
 | `/tz-skills:ui-design` | Design or restyle a desktop-app screen or component to the UI guidelines |
 | `/tz-skills:ui-library-picker` | Pick one UI library or widget answer from the UI library policy |
 | `/tz-skills:ui-review` | Read-only review of a screen, component or stylesheet against the UI guidelines |
@@ -88,7 +87,6 @@ tz-skills/
 │   ├── codebase-mapper/
 │   ├── handover/
 │   ├── security-auditor/
-│   ├── visual-qa-check/
 │   ├── ui-design/
 │   ├── ui-library-picker/
 │   └── ui-review/
