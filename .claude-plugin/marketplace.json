@@ -1,0 +1,13 @@
+{
+  "name": "tz-skills",
+  "owner": {
+    "name": "arozz7"
+  },
+  "plugins": [
+    {
+      "name": "tz-skills",
+      "source": "./",
+      "description": "Enterprise coding standards: skills, rules, and commands for Claude Code."
+    }
+  ]
+}
