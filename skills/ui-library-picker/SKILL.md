@@ -1,6 +1,6 @@
 ---
 name: ui-library-picker
-description: Use when about to add, replace or hand-build a UI dependency or widget in a desktop app (dialog, menu, tooltip, tabs, toast, command palette, drawer, animated number, icons). Gives one answer from the user's UI library policy.
+description: Use whenever a task adds, replaces or hand-builds a UI widget or dependency in an app: "add a toast", dialog, modal, menu, dropdown, tooltip, tabs, popover, drawer, command palette, animated number, icons, "add a dependency", "which library for". Invoke it before searching the code or writing any of it; it gives one answer from the user's UI library policy.
 last-reviewed: "2026-11-21"
 guidelines: v0.3
 ---
